@@ -15,5 +15,7 @@ A simple calculator program using C to perform basic arithmetic operations like 
    ```bash
    gcc calculator.c -o calculator
 3.Run the program:
+```bash
    ./calculator
+ 
 4.Follow the menu to prform calculations
